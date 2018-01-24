@@ -1,0 +1,61 @@
+*.py[cod]
+*.py
+#*.npy
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# SQLite databases
+*.sqlite
+
+# Virtual environment
+venv
+
+# pycharm
+.idea
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# DATA
+*.txt
+#*.csv
+#*.fit
+*.pickle
+*.dat
+
+# IMG
+*.jpg
+*.png
+
+# pkl
+*.pkl
