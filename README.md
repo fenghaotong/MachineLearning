@@ -13,13 +13,13 @@
 
 - [KNN算法](KNN/KNN算法.ipynb)
 
-- [逻辑回归（Logistic Regression）](LogisticRegression/逻辑回归（Logistic Regression）.ipynb)
+- [逻辑回归（Logistic Regression）](LogisticRegression/逻辑回归（LogisticRegression）.ipynb)
 
-- [决策树（Decision Trees）](DT/决策树（Decision Trees）.ipynb)
+- [决策树（Decision Trees）](DT/决策树（DecisionTrees）.ipynb)
 
-- [随机森林（Random Forests）](RandomForest/随机森林（Random Forests）.ipynb)
+- [随机森林（Random Forests）](RandomForest/随机森林（RandomForests）.ipynb)
 
-- [贝叶斯（Bayesian Techniques）](Bayesian/贝叶斯（Bayesian Techniques）.ipynb)
+- [贝叶斯（Bayesian Techniques）](Bayesian/贝叶斯（BayesianTechniques）.ipynb)
 
 - [支持向量机（SVMs）](SVM/支持向量机（SVMs）.ipynb)
 
