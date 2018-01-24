@@ -15,7 +15,3 @@
 [SOI-LSTM](SOI-LSTM.ipynb)   
 [SOI-RNN](SOI-RNN.ipynb)
 
-
-```python
-
-```
