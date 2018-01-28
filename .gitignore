@@ -1,6 +1,6 @@
 *.py[cod]
 *.py
-#*.npy
+*.npy
 
 # Packages
 *.egg
@@ -48,8 +48,8 @@ venv
 
 # DATA
 *.txt
-#*.csv
-#*.fit
+*.csv
+*.fit
 *.pickle
 *.dat
 
