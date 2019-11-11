@@ -45,5 +45,5 @@
 
 ## 意见反馈
 
-- 大家有什么需求或者问题欢迎大家提问和改正，[点击这里 ](https://github.com/fenghaotong/AstroML/issues/new)
+- 大家有什么需求或者问题欢迎大家提问和改正，[点击这里 ](https://github.com/fenghaotong/MachineLearning/issues/new)
 
